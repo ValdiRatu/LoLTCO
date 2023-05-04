@@ -1,1 +1,1 @@
-Data was removed from git-repo due to size limitations, though it is accessible via git history. If not, feel free to contact me if you wish for a copy of the data.
+Git repo was recreated with LFS disabled and data file not pushed. If you wish for a copy of the data, please feel free to reach out to me or use the data scraping scripts found in `src/scritps`.
